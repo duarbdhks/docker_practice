@@ -1,0 +1,4 @@
+
+Usage:	docker tag SOURCE_IMAGE[:TAG] TARGET_IMAGE[:TAG]
+
+SOURCE_IMAGE를 참조하는 TARGET_IMAGE 태그를 만듭니다.
